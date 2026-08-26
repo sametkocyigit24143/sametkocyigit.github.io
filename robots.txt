@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sametkocyigit24143.github.io/sametkocyigit.github.io/sitemap.xml
